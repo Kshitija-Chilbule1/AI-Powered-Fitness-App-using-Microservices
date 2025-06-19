@@ -1,1 +1,1 @@
-# AI-Powered Full-Stack Fitness Application using Microservices with React and Spring Boot
+# PowerBI Case Study: Crunchy Corner Business Optimization and Budgeting 📊
